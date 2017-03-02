@@ -1,0 +1,33 @@
+{
+  "name": "public-ipv4",
+  "version": "0.1.0",
+  "description": "create or verify a public IPv4 address",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "bin": {
+    "public-ipv4": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmi7/public-ipv4.git"
+  },
+  "keywords": [
+    "ip",
+    "ipv4",
+    "public",
+    "verify",
+    "random"
+  ],
+  "author": "Sander 'rmi7' Remie <user@rmi7.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmi7/public-ipv4/issues"
+  },
+  "homepage": "https://github.com/rmi7/public-ipv4#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
