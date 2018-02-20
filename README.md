@@ -1,5 +1,9 @@
 # public ipv4
 
+![License](https://img.shields.io/github/license/rmi7/public-ipv4.svg?style=flat-square)
+[![Version](https://img.shields.io/npm/v/public-ipv4.svg?style=flat-square&label=version)](https://www.npmjs.com/package/public-ipv4)
+![Downloads](https://img.shields.io/npm/dt/public-ipv4.svg)
+
 **ZERO dependencies**
 
 this module offers 2 functions to deal with IPv4 addresses:
